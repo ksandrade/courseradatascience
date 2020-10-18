@@ -1,10 +1,11 @@
 ---
-title: "Rmarkdown"
+title: "Rmarkdowntest"
 author: "Me"
 date: "10/18/2020"
 output: pdf_document
 ---
-###This is a markdown file
+##This is a markdown file
+testing rmarkdown
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
